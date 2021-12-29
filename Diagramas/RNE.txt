@@ -1,0 +1,3 @@
+ Curso.Codigo.Length = 5 (3 letras y 2  numeros)
+ Empleado.Usuario.Length = 10
+ CurCorto.Áreas = 'Programación" || "Economía" || Diseño 

@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Label ID="lblusuario" runat="server" Font-Bold="False" Font-Names="Bodoni MT" Font-Size="Large"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:LinkButton ID="lnksesion" runat="server" Font-Underline="False" OnClick="lnksesion_Click" Visible="False">Cerrar Sesión</asp:LinkButton>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <br />
+        <asp:Panel ID="Panel1" runat="server" BackColor="#660033" Height="72px">
+            <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Label ID="Label2" runat="server" Font-Bold="True" Font-Italic="False" Font-Names="Bodoni MT" Font-Size="XX-Large" ForeColor="#999999" Text="Bios Learning"></asp:Label>
+            <br />
+        </asp:Panel>
+        <br />
+        <asp:Menu ID="Menu1" runat="server" BackColor="#660033" DataSourceID="SiteMapDataSource1" ForeColor="#999999" Orientation="Horizontal" StaticSubMenuIndent="16px" OnMenuItemClick="Menu1_MenuItemClick" BorderColor="#FF9900" BorderStyle="Double" Height="25px" ItemWrap="True" Width="70px">
+            <DynamicHoverStyle BackColor="#990033" ForeColor="#999999" />
+            <DynamicMenuItemStyle ForeColor="#999999" BackColor="#660033" />
+            <DynamicMenuStyle HorizontalPadding="22px" />
+            <DynamicSelectedStyle ForeColor="#999999" />
+            <StaticHoverStyle ForeColor="#999999" />
+            <StaticMenuItemStyle ForeColor="#999999" />
+            <StaticSelectedStyle ForeColor="#999999" />
+        </asp:Menu>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <br />
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

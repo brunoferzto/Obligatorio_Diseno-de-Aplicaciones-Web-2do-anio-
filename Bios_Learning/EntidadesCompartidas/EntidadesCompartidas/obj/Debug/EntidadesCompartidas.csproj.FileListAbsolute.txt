@@ -1,0 +1,14 @@
+C:\Users\Bruno\Desktop\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Bruno\Desktop\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Bruno\Desktop\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Bruno\Desktop\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\2do\Materia1\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\2do\Materia1\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\2do\Materia1\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\2do\Materia1\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+F:\2do\Materia1\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+F:\2do\Materia1\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+F:\2do\Materia1\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+F:\2do\Materia1\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+F:\2do\Materia1\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Bruno\Desktop\Obligatorio\Bios_Learning\EntidadesCompartidas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache

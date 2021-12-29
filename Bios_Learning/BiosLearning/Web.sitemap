@@ -1,0 +1,24 @@
+﻿<siteMap >
+      <siteMapNode title="Inicio" description="Inicio" url="">
+        
+        
+                <siteMapNode title="Sucursales" description="Sucursales" url="~/ABMSucursales.aspx" >
+                </siteMapNode>
+        
+                <siteMapNode title="Empleados" description="Empleados" url="~/AMBEmpleado.aspx" >
+                </siteMapNode>
+        
+                <siteMapNode title="Alta Alumnos" description="AltaAlumnos" url="~/AltaAlumnos.aspx" >
+                </siteMapNode>
+
+               <siteMapNode title="Inscripciones" description="Inscribir Alumno a Materia" url="~/Inscripciones.aspx" >
+                </siteMapNode>
+        
+               <siteMapNode title="Cursos" description="Cursos" url="">
+               <siteMapNode title="Cortos" description="CursoCorto" url="~/ABMcCortos.aspx" />
+              <siteMapNode title="Especializados" description="CursosEspecializados" url="ABMcEspecializado.aspx" />
+            
+            </siteMapNode>
+        
+      </siteMapNode>
+</siteMap>
